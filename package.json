@@ -1,0 +1,23 @@
+{
+  "name": "ip-poker",
+  "version": "1.0.0",
+  "description": "A Node.js app that looks for hidden IP addresses",
+  "scripts": {
+    "start": "node --max_old_space_size=4096 --optimize_for_size --stack_size=4096 backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "author": "weathertopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://stackoverflow.com"
+  },
+  "homepage": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "internet-available": "^1.0.0",
+    "requirejs": "^2.3.5"
+  }
+}
