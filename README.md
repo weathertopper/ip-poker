@@ -48,4 +48,4 @@ Results are saved in `results/ip_results.txt`.
 **`ip_results.txt` FILE IS WIPED EVERY TIME THE SCAN IS STARTED**, so back up results.  
 
 
-_Known bug: IP addresses [1.1.78.198 - 1.1.78.200] throw an uncaught error, killing the scan_
+_Known bug: IP addresses [1.1.78.198 - 1.1.78.201] throw an uncaught error, killing the scan_
