@@ -43,9 +43,9 @@ npm start
 
 ## Results
 
-Results are saved in the `results/ip_results.txt`. 
+Results are saved in `results/ip_results.txt`. 
 
-**THIS FILE IS WIPED EVERY TIME THE SCAN IS STARTED**, so back up results.  
+**`ip_results.txt` FILE IS WIPED EVERY TIME THE SCAN IS STARTED**, so back up results.  
 
 
 _Known bug: IP addresses [1.1.78.198 - 1.1.78.200] throw an uncaught error, killing the scan_
